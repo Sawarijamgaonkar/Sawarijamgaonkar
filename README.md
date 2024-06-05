@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Backend, DSA and Data Analysis**
 
-- 📝 I regularly write articles on [https://medium.com/@sawari.jamgaonkar18](https://medium.com/@sawari.jamgaonkar18)
+- 📝 I write blogs on [https://medium.com/@sawari.jamgaonkar18](https://medium.com/@sawari.jamgaonkar18)
 
 - 💬 Ask me about **HTML, CSS, Java, Python, Data preprocessing and analysis, etc**
 
-- 📫 How to reach me **sawarijamgaonkar2022@vitbhopal.ac.in**
+- 📫 How to reach me **sawari.jamgaonkar18@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cVNuQvv37WgKNKgnDd_QryxSECZ4mvcU/view?usp=drive_link](https://drive.google.com/file/d/1cVNuQvv37WgKNKgnDd_QryxSECZ4mvcU/view?usp=drive_link)
 
