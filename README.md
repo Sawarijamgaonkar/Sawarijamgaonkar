@@ -1,6 +1,7 @@
 <h1 align="center">Hello, myself Sawari Jamgaonkar</h1>
 <h3 align="center">An Artificial Intelligence and Machine Learning Engineer from India</h3>
-<img align="center" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/cliet9csmrjx2uiq3rek/create-lofi-hip-hop-starting-soon-and-gif-loop-animations.png">
+<img align="center" alt="coding" width="600" src="https://jnnce.ac.in/jnndemo/aiml.gif">
+<!-- <img align="center" alt="coding" width="900" src="https://fiverr-res.cloudinary.com/videos/t_smartwm/t_main1,q_auto,f_auto/cliet9csmrjx2uiq3rek/create-lofi-hip-hop-starting-soon-and-gif-loop-animations.png"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawarijamgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="sawarijamgaonkar" /> </p>
 
