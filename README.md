@@ -50,7 +50,7 @@
 
 <!-- STREAKS and STATS -->
 <p align="center">
-  <img alt="My Github Streaks" src="https://streak-stats.demolab.com/?user=Sawarijamgaonkar&theme=gotham&layout=small" />
+  <img alt="My Github Streaks" src="https://streak-stats.demolab.com/?user=Sawarijamgaonkar&theme=dark" />
   <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=sawarijamgaonkar&show_icons=true&locale=en&theme=gotham&layout=compact" alt="sawarijamgaonkar"/>
   
 </p>
